@@ -1,5 +1,5 @@
-import "../index";
-import Statistic from "../Statistic"
+import "../../src/index";
+import Statistic from "../../src/Statistic"
 export default function Scores ({courseName, sourceResults }){
     return(
         <>
