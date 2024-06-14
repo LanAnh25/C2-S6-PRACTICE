@@ -4,6 +4,7 @@ import {JAVA_RESULTS } from "./data";
 import {PYTHON_RESULTS } from "./data";
 import {HTML_RESULTS } from "./data";
 import {ENGLISH_RESULTS } from "./data";
+import "../src/index";
 function App() {
   return (
     <>

@@ -4,7 +4,7 @@ export default function Header() {
     <>
       <header id="header">
         <img src={pnLogo} alt="PN Logo" />
-        <h1>Students results for (fake batch name)</h1>
+        <h1>Students results for PNC bath 2024</h1>
       </header>
     </>
   );
